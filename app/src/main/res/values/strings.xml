@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Raft</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="edit_interests">Interests (separated by commas)</string>
+    <string name="edit_location">City</string>
+    <string name="edit_email">Email address</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_age">Age</string>
+    <string name="edit_gender">Gender</string>
+    <string name="button_open_in_app">Open form in app!</string>
+    <string name="button_open_in_browser">Open form in browser!</string>
+    <string name="button_submit">Submit!</string>
+    <string name="text_success">Submission successful!!</string>
+    <string name="button_done">Done</string>
+    <string name="button_settings">Mesh Settings</string>
+    <string name="title_activity_in_app">inApp</string>
+</resources>
